@@ -1,0 +1,9 @@
+# name backage => mcamara/laravel-localization
+    URL: https://github.com/mcamara/laravel-localization
+    install : composer require mcamara/laravel-localization
+    Config Files : php artisan vendor:publish --provider="Mcamara\LaravelLocalization\LaravelLocalizationServiceProvider"
+#====================================#
+# name backage => laravelcollective/html
+URL: https://laravelcollective.com/docs/6.x/html
+install :  composer require laravelcollective/html
+#====================================#
